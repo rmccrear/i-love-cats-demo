@@ -1,0 +1,18 @@
+
+body {
+  background-color: darkorchid;
+  text-align: center;
+}
+
+#header {
+  color: gray;
+  font-family:  cursive;
+}
+
+#content {
+  color: white;
+}
+
+#picture1 {
+  width: 80%;
+}
